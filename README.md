@@ -1,2 +1,2 @@
-# WebsiteOfResources
-This will be a website of resources for those that want to get started in Computer Science.
+# Elaine's Holiday Treats
+This is a website I created for entrance into a High School Technology Academy.
